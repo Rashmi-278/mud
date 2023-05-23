@@ -5,6 +5,8 @@
 <p>MUD - Engine for Autonomous Worlds</p>
 </div>
 
+Random Number Generation plugin for MUD
+
 <p align="center">
   <a aria-label="license MIT" href="https://opensource.org/licenses/MIT">
     <img alt="" src="https://img.shields.io/badge/License-MIT-yellow.svg">
